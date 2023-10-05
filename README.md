@@ -1,4 +1,10 @@
+![image](https://github.com/kxn4t/kxn4t/assets/20788898/fb3318fb-985d-4fb6-8db7-1122673450b9)
+
 ### Hi there 👋
+- 🔭 I am currently working as a product manager around Identity for a SaaS.
+- 🏯 Author of the only technical book on SAML in Japan.
+- 📖 My Books: [SAML入門](https://nextpublishing.jp/book/15069.html)
+- 👯 My recent interests: VRChat
 
 <!--
 **kxn4t/kxn4t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
