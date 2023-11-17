@@ -3,6 +3,7 @@
 ### Hi there 👋
 - 🔭 I am currently working as a product manager around Identity for a SaaS.
 - 🏯 Author of the only technical book on SAML in Japan.
+- 🎨 Field: Identity / Authentication
 - 📖 My Books: [SAML入門](https://nextpublishing.jp/book/15069.html)
 - 👯 My recent interests: VRChat
 
