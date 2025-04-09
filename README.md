@@ -11,6 +11,11 @@
 - [Merge Armatures Tool](https://kanameliser.booth.pm/items/6551022)  
   *A Blender tool for merging clothing armatures into base rigs with automatic bone and vertex group matching, designed for VRChat avatar creators.*
 
+#### 🧰 Unity Editor Extensions  
+- [Kanameliser Editor Plus](https://kanameliser.booth.pm/items/6751267)  
+  *A small set of Unity & VRChat editor extensions to streamline your workflow.*  
+  [🔗 GitHub Repository](https://github.com/kxn4t/kanameliser-editor-plus)
+
 #### 📖 Books (Authored)
 - [SAML入門](https://nextpublishing.jp/book/15069.html)  
   *A Japanese-language introduction to SAML for developers and technical professionals.*
