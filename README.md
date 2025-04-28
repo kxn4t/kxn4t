@@ -10,6 +10,9 @@
 #### 🧩 Blender Add-ons
 - [Merge Armatures Tool](https://kanameliser.booth.pm/items/6551022)  
   *A Blender tool for merging clothing armatures into base rigs with automatic bone and vertex group matching, designed for VRChat avatar creators.*
+- [Vertex Group Merger](https://kanameliser.booth.pm/items/6853101)
+  *A Blender addon that merges multiple vertex groups with additive weight calculation.*
+  [🔗 GitHub Repository](https://github.com/kxn4t/vertex-group-merger)
 
 #### 🧰 Unity Editor Extensions  
 - [Kanameliser Editor Plus](https://kanameliser.booth.pm/items/6751267)  
