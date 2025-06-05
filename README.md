@@ -13,6 +13,9 @@
 - [Vertex Group Merger](https://kanameliser.booth.pm/items/6853101)  
   *A Blender addon that merges multiple vertex groups with additive weight calculation.*  
   [🔗 GitHub Repository](https://github.com/kxn4t/vertex-group-merger)
+- [Pose to Rest Pose](https://kanameliser.booth.pm/items/6999784)  
+  *A Blender addon for applying the current pose as rest pose while preserving shape keys and drivers.*  
+  [🔗 GitHub Repository](https://github.com/kxn4t/pose-to-rest-pose)
 
 #### 🧰 Unity Editor Extensions  
 - [Kanameliser Editor Plus](https://kanameliser.booth.pm/items/6751267)  
