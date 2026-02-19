@@ -21,6 +21,9 @@
 - [Kanameliser Editor Plus](https://kanameliser.booth.pm/items/6751267)  
   *A small set of Unity & VRChat editor extensions to streamline your workflow.*  
   [🔗 GitHub Repository](https://github.com/kxn4t/kanameliser-editor-plus)
+- [Color Variant Prefab Generator](https://kanameliser.booth.pm/items/7998653)  
+  *A Unity Editor extension for generating color variant Prefab Variants via material swapping — ideal for VRChat avatar outfits and accessories.*  
+  [🔗 GitHub Repository](https://github.com/kxn4t/color-variant-prefab-generator)
 
 #### 📖 Books (Authored)
 - [SAML入門](https://nextpublishing.jp/book/15069.html)  
