@@ -25,6 +25,11 @@
   *A Unity Editor extension for generating color variant Prefab Variants via material swapping — ideal for VRChat avatar outfits and accessories.*  
   [🔗 GitHub Repository](https://github.com/kxn4t/color-variant-prefab-generator)
 
+#### 🕶️ VR Utilities
+- [VIVE Ultimate Tracker Poweroff](https://kanameliser.booth.pm/items/8708154)  
+  *A Windows tool that turns off all your VIVE Ultimate Trackers at once by automating VIVE Hub — one press on a Stream Deck and they're off.*  
+  [🔗 GitHub Repository](https://github.com/kxn4t/vive-ultimate-tracker-poweroff)
+
 #### 📖 Books (Authored)
 - [SAML入門](https://nextpublishing.jp/book/15069.html)  
   *A Japanese-language introduction to SAML for developers and technical professionals.*
