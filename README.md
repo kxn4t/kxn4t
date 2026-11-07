@@ -30,6 +30,10 @@
   *A Windows tool that turns off all your VIVE Ultimate Trackers at once by automating VIVE Hub — one press on a Stream Deck and they're off.*  
   [🔗 GitHub Repository](https://github.com/kxn4t/vive-ultimate-tracker-poweroff)
 
+#### 🌍 VRChat Apps
+- [VRC World Palette](https://kanameliser.booth.pm/items/8976014)  
+  *A Windows app for gathering your favorite VRChat worlds into a palette of your own — sort them into folders and tags, browse your VRChat photos world by world, and keep the days you spent there as a diary.*
+
 #### 📖 Books (Authored)
 - [SAML入門](https://nextpublishing.jp/book/15069.html)  
   *A Japanese-language introduction to SAML for developers and technical professionals.*
